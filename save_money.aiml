@@ -1,0 +1,22 @@
+<aiml version="1.0.1" encoding="UTF-8"?>
+   <category>
+      <pattern> 
+        How can I buy a car? 
+      </pattern>
+      <template>
+        If you save ____ per month, you can buy it in _____. Shall I save it as a goal for you?
+      </template>
+      <pattern>
+        I want to study in * school.
+      </pattern>
+      <template>
+        You will need to have ____ by the time you are __.
+      </template>
+      <pattern>
+        Should I spend on this drink?
+      </pattern>
+      <template>
+        Based on your income, if you spend on this drink, you ____ buy a car in ___ months.
+      </template>
+   </category>
+</aiml>

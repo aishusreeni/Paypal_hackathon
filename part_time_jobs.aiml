@@ -1,0 +1,23 @@
+<aiml version="1.0.1" encoding="UTF-8"?>
+   <category>
+      <pattern> 
+        Please suggest some part time jobs around me 
+      </pattern>
+      <template>
+         These are the available jobs:
+      </template>
+      <pattern>
+        Whane are you free?
+      </pattern>
+      <template>
+        These are your options at your time of convenience:
+      </template>
+      <pattern>
+        I want to get my room cleaned!
+      </pattern>
+      <template>
+        You can do these by yourself:
+        You can get someone to help you for:
+      </template>
+   </category>
+</aiml>

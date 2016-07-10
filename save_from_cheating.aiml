@@ -1,0 +1,21 @@
+<aiml version="1.0.1" encoding="UTF-8"?>
+   <category>
+      <pattern> Hi </pattern>
+      <template>
+         Hello! How are you doing today?
+      </template>
+      <pattern>
+        I want to fix my door knob
+      </pattern>
+      <template>
+        These are the best rates I found for you today:
+      </template>
+      <pattern>
+        I want to get my room cleaned!
+      </pattern>
+      <template>
+        You can do these by yourself:
+        You can get someone to help you for:
+      </template>
+   </category>
+</aiml>
